@@ -1,0 +1,79 @@
+{
+  "schema": "squad-agent-provenance/v1",
+  "schema_version": 1,
+  "revision": 2,
+  "generated_at": "2026-11-10T03:59:54.921Z",
+  "agents": {
+    "konrad": {
+      "display_name": "Konrad",
+      "persistent_name": "Konrad",
+      "role": "Lead Orchestrator",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "talos": {
+      "display_name": "Talos",
+      "persistent_name": "Talos",
+      "role": "Azure SRE and Delivery Lead",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "octavia": {
+      "display_name": "Octavia",
+      "persistent_name": "Octavia",
+      "role": "Azure Network Engineer",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "variel": {
+      "display_name": "Variel",
+      "persistent_name": "Variel",
+      "role": "Azure Data Engineer",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "cyrion": {
+      "display_name": "Cyrion",
+      "persistent_name": "Cyrion",
+      "role": "Azure Observability Engineer",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "septimus": {
+      "display_name": "Septimus",
+      "persistent_name": "Septimus",
+      "role": "Incident Documentation Lead",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "sevatar": {
+      "display_name": "Sevatar",
+      "persistent_name": "Sevatar",
+      "role": "Independent QA and Reviewer",
+      "universe": "Night Lords (Warhammer 40,000)",
+      "created_at": "2026-11-09T21:59:54.921-06:00",
+      "updated_at": "2026-11-09T21:59:54.921-06:00",
+      "legacy_named": false,
+      "status": "active"
+    }
+  },
+  "transaction_id": "5d92f8e5-cde1-481a-a88b-6a4db13783c4"
+}

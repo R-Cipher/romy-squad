@@ -1,0 +1,17 @@
+{
+  "universe_usage_history": [
+    {
+      "universe": "Night Lords (Warhammer 40,000)",
+      "used_at": "2026-11-09T21:59:54.921-06:00"
+    }
+  ],
+  "assignment_cast_snapshots": {
+    "night-lords-revision-2": {
+      "universe": "Night Lords (Warhammer 40,000)",
+      "agents": ["konrad", "talos", "octavia", "variel", "cyrion", "septimus", "sevatar"],
+      "created_at": "2026-11-09T21:59:54.921-06:00"
+    }
+  },
+  "transaction_id": "5d92f8e5-cde1-481a-a88b-6a4db13783c4",
+  "registry_revision": 2
+}
